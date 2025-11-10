@@ -1,4 +1,4 @@
-Rock, paper, scissors – The game
+Rock, paper, scissors – The game.
 This project is based on the classic rock, paper and scissors game.
 
 Project Goals
